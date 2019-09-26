@@ -1,0 +1,15 @@
+{
+	"count": 325,
+	"results": [
+		{
+			"name": "Aboleth",
+			"url": "http://www.dnd5eapi.co/api/monsters/1"
+		}, {
+			"name": "Acolyte",
+			"url": "http://www.dnd5eapi.co/api/monsters/2"
+		}, {
+			"name": "Zombie",
+			"url": "http://www.dnd5eapi.co/api/monsters/325"
+		}
+	]
+}
